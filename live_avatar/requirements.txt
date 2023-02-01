@@ -1,0 +1,4 @@
+# فوق متطلبات requirements.txt الأصلية بتاعة FlashTalk، محتاج كمان:
+google-genai>=0.3.0
+sounddevice
+python-dotenv
