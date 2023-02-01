@@ -1,4 +1,5 @@
 # فوق متطلبات requirements.txt الأصلية بتاعة FlashTalk، محتاج كمان:
+groq>=0.13.0
 google-genai>=0.3.0
 sounddevice
 python-dotenv
